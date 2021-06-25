@@ -2,7 +2,7 @@
 
 # Frontend 
   - React JS
-  - React JS
+  - React Hooks
 
 # Backend 
   - Node JS
