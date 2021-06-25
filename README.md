@@ -21,7 +21,6 @@
 
 # Home
 ![Home](screenshots/Home.PNG?raw=true)
-![Home](screenshots/Home.PNG?raw=true "Home")
 
 # Add
 ![Add](screenshots/Add.PNG?raw=true)
