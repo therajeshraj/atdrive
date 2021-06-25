@@ -20,13 +20,14 @@
 # ScreenShots
 
 # Home
-![Home](screenshots.Home.PNG?raw=true)
+![Home](screenshots/Home.PNG?raw=true)
+![Home](screenshots/Home.PNG?raw=true "Home")
 
 # Add
-![Add](screenshots.Add.PNG?raw=true)
+![Add](screenshots/Add.PNG?raw=true)
 
 # AddFilled
-![AddFilled](screenshots.AddFilled.PNG?raw=true)
+![AddFilled](screenshots/AddFilled.PNG?raw=true)
 
 # Update
-![Update](screenshots.Update.PNG?raw=true)
+![Update](screenshots/Update.PNG?raw=true)
